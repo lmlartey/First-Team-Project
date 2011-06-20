@@ -17,7 +17,8 @@ class Team:
         """ Insert self.word in the sentence 'Today I dreamt of
         <self.word> while walking on the beach.' replacing <self.word>
         for the noun that was chosen during class construction. """
-	  # TODO by person 2
+        print "Today I dreamt of %s while walking on the beach."%(self.word)	 
+        # TODO by person 2
         pass
 
 t = Team()
