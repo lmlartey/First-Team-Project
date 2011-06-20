@@ -27,3 +27,5 @@ class Team:
 t = Team()
 t.reverse_input()
 t.print_in_sentence()
+
+#louismark
